@@ -55,6 +55,11 @@ a:hover {
   display: inline-block;
 }
 
+.support {
+  width: 600px;
+  margin: auto;
+}
+
 /* Footer */
 footer {
   text-align: center;
